@@ -5,6 +5,11 @@
     "file":"posts/1.md"
   },
   {
+    "title":"奇怪的诗",
+    "time":"4/30/2020",
+    "file":"posts/2.md"
+  },
+  {
     "title":"Hello World",
     "time":"4/25/2020",
     "file":"posts/helloworld.md"
